@@ -1,6 +1,6 @@
 ##Solitaire
 
-![alt text](img/img.png)
+![alt text](https://github.com/plarun/solitaire/blob/master/img/img.png)
 
 ##Names
 stock - s
