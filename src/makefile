@@ -1,7 +1,7 @@
 GCC=gcc
 
-sol:
+run:
 	$(GCC) -o run -Wall *.c -lncursesw
 
 debug:
-	$(GCC) -g -o run -Wall *.c -lncursesw
+	$(GCC) -g -o debug -Wall *.c -lncursesw
